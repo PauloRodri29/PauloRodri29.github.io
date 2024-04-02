@@ -59,7 +59,6 @@ body {
     display: flex;
     width: 900px;
     height: 40px;
-    color: #fff;
     font-size: 24px;
     line-height: 40px;
     top: 0;
@@ -72,7 +71,7 @@ body {
 #bar-nav nav .magic-wheel .container-cubo {
     list-style: none;
     padding-left: 10px;
-    animation: cambiar 15s infinite;
+    animation: cambiar 7s infinite;
 }
 
 #bar-nav nav .magic-wheel .container-cubo {
@@ -80,11 +79,21 @@ body {
 }
 
 @keyframes cambiar {
-    0% { margin-top: 0; }
-    25% { margin-top: 0; }
-    50% { margin-top: -40px; }
-    75% { margin-top: -40px; }
-    100% { margin-top: 0px; }
+    0% { 
+        margin-top: 0; 
+    }
+    25% {
+         margin-top: 0; 
+    }
+    50% {
+         margin-top: -40px;
+    }
+    75%{
+         margin-top: -40px; 
+        }
+    100% {
+         margin-top: 0px; 
+    }
 }
 
 .content-primary{
@@ -109,11 +118,12 @@ body {
 
 main .content-primary .text-apresentation a{
     text-decoration: underline;
+    color: #117422;
 }
 
 main .content-primary .text-apresentation a:hover,
 main .content-primary .text-apresentation a:active{
-    color: #117422;
+    color: aliceblue;
 }
 
 .text-apresentation p{
@@ -252,10 +262,6 @@ main .content-primary .text-apresentation a:active{
 
     .content-primary{
        flex-direction: column-reverse;
-    }
-
-    .text-apresentation p{
-        line-height: 100%;
     }
 
     .text-apresentation{
