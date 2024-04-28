@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif" style="width:250px; height: 300px; box-shadow: 10px 20px 10px rgba(0, 0, 0, 0.5);" alt="Aletatória rsrs">
+  <img src="https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif" style="width:150px; height: 150px; box-shadow: 10px 20px 10px rgba(0, 0, 0, 0.5);" alt="Aletatória rsrs">
 
 </div>
 
