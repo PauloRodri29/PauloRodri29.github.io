@@ -1,13 +1,13 @@
-
-   <p align="center">
-
-   ## Hub Links!
-   
-   </p> 
-
-  <p>Este é o repositório do Hub link que é um site de distibuição de links e informações pessoais, onde compartilho informações sobre mim, meus projetos e meu trabalho como desenvolvedor!!!</p>
+<div align="center">
 
   <img src="https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif" style="width:250px; height: 300px; box-shadow: 10px 20px 10px rgba(0, 0, 0, 0.5);" alt="Aletatória rsrs">
+
+</div>
+
+   ## Hub Links!
+
+Este é o repositório do Hub link que é um site de distibuição de links e informações pessoais, onde compartilho informações sobre mim, meus projetos e meu trabalho como desenvolvedor!!!
+
 
    ## Sobre Mim
 
